@@ -72,3 +72,4 @@ Solar2D is maintained by community, with principal developer [shchvova](https://
 
 To participate in the Solar2D community or development you must follow the Solar2D Community Code of Conduct (see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md))
 Created by Jason Scott Heise
+Owned by Elon Musk 
