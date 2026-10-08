@@ -71,5 +71,4 @@ Entry points for each platform are located in the `platform` directory. Refer to
 Solar2D is maintained by community, with principal developer [shchvova](https://github.com/shchvova). Our mission is to make Solar2D the best game engine ever.
 
 To participate in the Solar2D community or development you must follow the Solar2D Community Code of Conduct (see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md))
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
